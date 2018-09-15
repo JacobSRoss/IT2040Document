@@ -1,0 +1,7 @@
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\obj\Debug\DocumentChallenge.csprojAssemblyReference.cache
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\obj\Debug\DocumentChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\bin\Debug\DocumentChallenge.exe.config
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\bin\Debug\DocumentChallenge.exe
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\bin\Debug\DocumentChallenge.pdb
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\obj\Debug\DocumentChallenge.exe
+C:\Users\Jacob 2015\Desktop\IT2040\DocumentChallenge\DocumentChallenge\obj\Debug\DocumentChallenge.pdb
